@@ -1,0 +1,11 @@
+name: Davis Advanced RF Technology Lab
+permalink: /blog/:year/:month/:day/:title
+collections:
+  publication:
+    output: true
+  blog:
+    output: true
+excerpt_separator: <!--more-->
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
