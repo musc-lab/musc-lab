@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UAV Lab
+title: MUSIC Lab at SUSTech - UAV Lab
 published: true
 ---
 

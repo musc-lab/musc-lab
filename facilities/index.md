@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Facilities
+title: MUSIC Lab at SUSTech - Facilities
 published: true
 ---
 ## Facilities
 
+<!--
 The DART lab has access to a variety of state-of-the-art modeling, fabrication, and characterization tools. Below is a glimpse of what are available.
 
 ### Software Tools
@@ -69,3 +70,5 @@ The DART lab is associated with the Davis Millimeter-Wave Research Center (DMRC)
 	<li>VDI-Erickson PM4 power meter (75 GHz - 3 THz)</li>
 	<li>Harmonic mixers up to 325 GHz</li>
 </ul>
+
+-->

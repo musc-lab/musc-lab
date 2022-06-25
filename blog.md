@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Davis Advanced RF Technology
+title: MUSIC Lab at SUSTech
 published: true
 ---
 

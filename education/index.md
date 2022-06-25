@@ -6,7 +6,7 @@ published: true
 
 ### Courses
 
-#### [EEC 130A Introductory Electromagntics I](/education/eec130a.html)
+#### [EEC 130A Introductory Electromagnetics I](/education/eec130a.html)
 
 
 #### [EEC 134AB Design of RF/Microwave Systems (Senior project course)](/education/eec134.html)
@@ -17,6 +17,6 @@ published: true
 
 <br>
 <br>
-<a href="http://dart.ece.ucdavis.edu/education/confucious_1" target="_blank"> <img align="middle;" src="http://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg"> </a>
+<a href="http://music-sustech.github.io/education/confucious_1" target="_blank"> <img align="middle;" src="http://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg"> </a>
 
-<a href="http://dart.ece.ucdavis.edu/education/confucious_2" target="_blank"> <img align="middle;" src="http://dart.ece.ucdavis.edu/images/teaching_confucious_2.jpg"> </a>
+<a href="http://music-sustech.github.io/education/confucious_2" target="_blank"> <img align="middle;" src="http://dart.ece.ucdavis.edu/images/teaching_confucious_2.jpg"> </a>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: People
+title: MUSIC Lab at SUSTech - People
 published: true
 ---
 
@@ -8,7 +8,7 @@ published: true
 
 <p>
 <b>Xiaoguang "Leo" Liu, PhD, <br>
-Associate Professor </b>
+Professor </b>
 </p>
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
@@ -17,28 +17,29 @@ Associate Professor </b>
 </div>
 
 <p>
-Department of Electrical and Computer Engineering <br>
-University of California, Davis <br>
+School of Microelectronics<br>
+Southern University of Science and Technology <br>
 </p>
 
 <p>
 Mailing Address: <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One Shields. Ave., <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2064 Kemper Hall, <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Davis, CA, 95616<br>
-Office: 3169 Kemper Hall<br>
-Tel.: (530)-752-1443<br>
-Email: lxgliu@ucdavis.edu <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room 803, Nanshan Zhiyuan, Chongwen Park <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3370 Liuxian Ave., Nanshan District, <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenzhen, 518055, China<br>
+
+Email: liuxg@sustech.edu.cn <br>
 
 </p>
 
 <p>
-Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, China, in 2004 and Ph.D. degree from Purdue University, USA, in 2010. He joined the Department of Electrical and Computer Engineering, University of California, Davis in Nov. 2011 as an assistant professor and was promoted to associate professor in Jul. 2017. At UC Davis, his research group is investigating various aspects of cutting-edge high-frequency circuit and system design and implementation concepts. Besides typical duties inside the University and professional societies, Dr. Liu has consulted for a number of companies and national labs on topics related to high-frequency circuits, antennas, and systems. His amateur radio call sign is AI6DW.
+Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, China, in 2004 and Ph.D. degree from Purdue University, USA, in 2010. He joined the Department of Electrical and Computer Engineering, University of California, Davis in Nov. 2011 as an assistant professor and was promoted to associate professor in Jul. 2017. In Mar. 2021, he joined the School of Microelectronics (SME), Southern University of Science and Technology (SUSTech) in Shenzhen, China, as a full professor.
+
+Prof. Liu's research group is investigating various aspects of cutting-edge high-frequency circuit and system design and implementation concepts. Besides typical duties inside the University and professional societies, Dr. Liu has consulted for a number of companies and national labs on topics related to high-frequency circuits, antennas, and systems. His amateur radio call sign is AI6DW.
 </p>
 
 <hr>
 
-### Visiting Professor
+### Research Associate Professor
 
 <table style="width:100%">
 	<tr>
@@ -46,38 +47,21 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 	</tr>
 </table>
 
-### Visiting Scholar
+### Research Assistant Professor
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Xiaomeng Gao <br><br> <img src="/people/images/xiaomeng.jpg"/></td>
+		<td style="width:30%">Dr. Dashuai Wang <br><br> <img src="/people/images/dashuai.jpg"/></td>
+		<td style="width:30%">Dr. Xuan Ma <br><br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
-
 </table>
 
 ### PhD Students
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Akash Anand <br><br> <img src="/people/images/akash.jpg"/></td>
-		<td  style="width:30%">Jingjun Chen <br><br> <img src="/people/images/jingjun.jpg"/></td>
-		<td style="width:30%">James T.S. Do <br> <br> <img src="/people/images/james_do.jpg" alt="James Do" /></td>		
-	</tr>
-
-	<tr>
-		<td style="width:30%">Saleh Hassanzade <br> <img src="/people/images/saleh.jpg"/></td>
-		<td style="width:30%">Xiaonan Jiang <br> <img src="/people/images/xiaonan.jpg"/></td>
-		<td style="width:30%">Daniel Kuzmenko <br> <br> <img src="/people/images/daniel.jpg" alt="Daniel Kuzmenko" /></td>
-	</tr>
-
-	<tr>
-		<td style="width:30%">Mahmoud Nafe <br> <br> <img src="/people/images/nafe.jpg" alt="Mahmoud Nafe" /></td>		
-		<td style="width:30%">Hind Reggad <br> <br> <img src="/people/images/hind.jpg" alt="Hind Reggad" /></td>		
-		<td style="width:30%">Hao Wang <br><br> <img src="/people/images/haowang.jpg"/></td>
-  </tr>
-
-	<tr>
-		<td  style="width:30%">Li Zhang <br><br> <img src="/people/images/li.jpg"/></td>
+		<td style="width:30%">Yongxin Cheng <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Shenghao Liu <br><br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 
 </table>
@@ -86,19 +70,40 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td  style="width:30%">Te-Chen Lin <br><br> <img src="/people/images/te-chen.jpg"/></td>
+	2021 <br>
+		<td  style="width:30%">Jingdong Zhang <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Tianye Wen <br><br> <img src="/people/images/blank.jpg"/></td>
+	</tr>
+
+	<tr>
+	2022 <br>
+		<td  style="width:30%">Danlu Zhang <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Caihong Liu <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Mandong Zhang <br><br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 
 </table>
 
-<!---
-<h3> Undergraduate Students </h3>
+
+### Undergraduate Students
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Mohammad "Mo" Biswas <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td style="width:30%">Yharo Torres <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td style="width:30%">Xiaoyang Zhou <br><br> <img src="/people/images/blank.jpg"/></td>				
+	2020 <br>
+		<td style="width:30%"> Xizhi Wang <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Yutang Zhou <br><br> <img src="/people/images/blank.jpg"/></td>		
+	</tr>
+
+	<tr>
+	2021 <br>
+		<td style="width:30%"> Weitong Tian <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Hengyu Cao <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Boye Jiang <br><br> <img src="/people/images/blank.jpg"/></td>				
+	</tr>
+
+	<tr>
+	2021 <br>
+		<td style="width:30%"> Qishu Luo <br><br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 
 </table>
@@ -109,8 +114,7 @@ Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, C
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Zhigang Peng <br>  <br> <img src="/people/images/zhigang.jpg"/></td>
-		<td style="width:30%">Jie Wang <br>  <br> <img src="/people/images/jie.jpg"/></td>			
+		<td style="width:30%">Zhuolin Li <br>  <br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 </table>
 

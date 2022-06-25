@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCDart::Resources::Latex
+title: MUSIC Lab at SUSTech - Resources - Latex
 published: true
 ---
 

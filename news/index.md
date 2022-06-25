@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News
+title: MUSIC Lab at SUSTech - News
 published: true
 ---
 <section>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: MUSIC Lab at SUSTech - Research
 published: true
 ---
 

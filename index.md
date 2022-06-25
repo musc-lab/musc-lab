@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Davis Advanced RF Technology
+title: Microsystems for Ubiquitous Sensing, Intelligence, and communication (MUSIC) Lab at the Southern University of Science and Technology (SUSTech)
 published: true
 use_math: true
 ---
-
+<!---
 <div class="alert alert-success">
     <h1><span style="color: #ed6c00;">We have moved to the Southern University of Science and Technology (SUSTech), Shenzhen, China!</span></h1>
     <h3><span style="color: #ed6c00;">This website will go offline by Jul 2022!</span></h3>
 </div>
+-->
 
-### Welcome to the Davis Advanced RF Technologies (DART) lab
+### Welcome to the MUSIC Lab at SUSTech
 <!---
 <img src="/images/gallery.gif" width="300px" style="float:right; margin-top:10px; margin-left:15px;">
 -->
@@ -20,12 +21,13 @@ use_math: true
 We are a group of researchers with a keen interest in many exciting areas of high-frequency and high-speed electronics. Our [research](/research/) interests include:
 
 - High-frequency (RF to THz) integrated circuits;
+- Reconfigurable RF circuits and systems;
+- High-precision and high-speed optoelectronic sensors and systems;
 - Microelectronic and photonic devices, such as micro-electromechanical (MEMS) devices;
 - Novel antennas, frequency selective surfaces, and passive components;
-- Reconfigurable high-frequency circuits and systems;
 <!-- - High-precision sensing systems using radar and laser time-of-flight (ToF) principles; -->
-- Applications of high-frequency electronics to biomedical, industrial, environmental, and humanitarian problems;
-- High-speed wireline and optical communications circuits.
+- Applications of high-frequency electronics to biomedical, healthcare, industrial, environmental, and humanitarian problems;
+
 
 Critical to our scientific research efforts is a pursuit of fundamental understanding of the engineering principles of high frequency electronics. A major mission of our work is to formulate and disseminate such understanding through university [education](/education/) as well as community [outreach](/education/outreach.html).
 <!---

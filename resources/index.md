@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: MUSIC Lab at SUSTech - Resources
 published: true
 ---
 
