@@ -11,7 +11,7 @@ use_math: true
 </div>
 -->
 
-### Welcome to the MUSIC Lab at SUSTech
+### Welcome to the Microsystems for Ubiquitous Sensing, Intelligence, and communication (MUSIC) Lab at the Southern University of Science and Technology (SUSTech)
 <!---
 <img src="/images/gallery.gif" width="300px" style="float:right; margin-top:10px; margin-left:15px;">
 -->
