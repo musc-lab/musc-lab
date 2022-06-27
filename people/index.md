@@ -12,8 +12,8 @@ Professor </b>
 </p>
 
 <div style="float:right; margin:-30px 0 10px 0; padding: 0 30px 10px 10px; width:30%;">
-<img src='/people/images/liu2015s.jpg'>
-<p> <a href="files\CV_Xiaoguang_Liu.pdf"> Link to CV </a> <br> <a href='https://calendar.google.com/calendar?cid=bHhnbGl1QHVjZGF2aXMuZWR1'> My Calendar </a> </p>
+	<img src='/people/images/liu2015s.jpg'>
+	<p> <a href="files\CV_Xiaoguang_Liu.pdf"> Link to CV </a> </p>
 </div>
 
 <p>
@@ -32,8 +32,9 @@ Email: liuxg@sustech.edu.cn <br>
 </p>
 
 <p>
-Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, China, in 2004 and Ph.D. degree from Purdue University, USA, in 2010. He joined the Department of Electrical and Computer Engineering, University of California, Davis in Nov. 2011 as an assistant professor and was promoted to associate professor in Jul. 2017. In Mar. 2021, he joined the School of Microelectronics (SME), Southern University of Science and Technology (SUSTech) in Shenzhen, China, as a full professor.
+Prof. Xiaoguang Liu received his Bachelor’s degree from Zhejiang University, China, in 2004 and Ph.D. degree from Purdue University, USA, in 2010. He joined the Department of Electrical and Computer Engineering, University of California, Davis in Nov. 2011 as an assistant professor and was promoted to associate professor in Jul. 2017. In Mar. 2021, he joined the School of Microelectronics (SME), Southern University of Science and Technology (SUSTech) in Shenzhen, China, as a full professor. </p>
 
+<p>
 Prof. Liu's research group is investigating various aspects of cutting-edge high-frequency circuit and system design and implementation concepts. Besides typical duties inside the University and professional societies, Dr. Liu has consulted for a number of companies and national labs on topics related to high-frequency circuits, antennas, and systems. His amateur radio call sign is AI6DW.
 </p>
 
@@ -43,7 +44,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Xiaohu Wu  <br> <br> <img src="/people/images/xiaohu_v2.jpg"/></td>
+		<td style="width:30%">Dr. Xiaohu Wu  <br> <img src="/people/images/xiaohu_v2.jpg"/></td>
 	</tr>
 </table>
 
@@ -51,8 +52,8 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Dr. Dashuai Wang <br><br> <img src="/people/images/dashuai.jpg"/></td>
-		<td style="width:30%">Dr. Xuan Ma <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%">Dr. Dashuai Wang <br> <img src="/people/images/dashuai.jpg"/></td>
+		<td style="width:30%">Dr. Xuan Ma <br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 </table>
 
@@ -60,8 +61,8 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Yongxin Cheng <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td  style="width:30%">Shenghao Liu <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%">Yongxin Cheng <br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Shenghao Liu <br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 
 </table>
@@ -69,19 +70,21 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 ### Master Students
 
 <table style="width:100%">
+	2021
 	<tr>
-	2021 <br>
-		<td  style="width:30%">Jingdong Zhang <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td  style="width:30%">Tianye Wen <br><br> <img src="/people/images/blank.jpg"/></td>
+ 	<br>
+		<td  style="width:30%">Jingdong Zhang <br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Tianye Wen <br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
+</table>
 
+<table style="width:100%">
+	2022
 	<tr>
-	2022 <br>
-		<td  style="width:30%">Danlu Zhang <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td  style="width:30%">Caihong Liu <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td  style="width:30%">Mandong Zhang <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Danlu Zhang <br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Caihong Liu <br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Mandong Zhang <br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
-
 </table>
 
 
@@ -90,8 +93,8 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 <table style="width:100%">
 	<tr>
 	2020 <br>
-		<td style="width:30%"> Xizhi Wang <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td style="width:30%"> Yutang Zhou <br><br> <img src="/people/images/blank.jpg"/></td>		
+		<td style="width:30%"> Xizhi Wang <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Yutang Zhou <br> <img src="/people/images/blank.jpg"/></td>		
 	</tr>
 
 	<tr>
@@ -107,7 +110,6 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	</tr>
 
 </table>
---->
 
 
 ### Visiting Scholars/Students
