@@ -54,6 +54,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	<tr>
 		<td style="width:30%">Dr. Dashuai Wang <br> <img src="/people/images/dashuai.jpg"/></td>
 		<td style="width:30%">Dr. Xuan Ma <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> </td>
 	</tr>
 </table>
 
@@ -95,7 +96,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	2021
 	<tr>
 		<td style="width:30%"> Weitong Tian <br> <img src="/people/images/blank.jpg"/></td>
-		<td style="width:30%"> Hengyu Cao <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Yuheng Cao <br> <img src="/people/images/blank.jpg"/></td>
 		<td style="width:30%"> Boye Jiang <br> <img src="/people/images/blank.jpg"/></td>				
 	</tr>
 

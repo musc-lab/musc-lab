@@ -12,7 +12,7 @@ published: true
 </div>
 -->
 
-[### Journals](#journals)   |    [### Conferences](#conferences)    |     [### Patents](#patents)
+[<b>Journals</b>](#journals)   |    [<b>Conferences</b>](#conferences)    |     [<b>Patents</b>](#patents)
 
 ### Journals
 
