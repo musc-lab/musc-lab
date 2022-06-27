@@ -4,7 +4,13 @@ title: Education
 published: true
 ---
 
-### Courses
+### At SUSTech
+
+#### SME 202 Fundamentals of Microelectronics II
+
+#### SME xxxx Design of RF/Microwave Systems 
+
+### At UC Davis
 
 #### [EEC 130A Introductory Electromagnetics I](/education/eec130a.html)
 
