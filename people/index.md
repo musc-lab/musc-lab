@@ -92,12 +92,6 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 
 <table style="width:100%">
 	<tr>
-	2020 <br>
-		<td style="width:30%"> Xizhi Wang <br> <img src="/people/images/blank.jpg"/></td>
-		<td style="width:30%"> Yutang Zhou <br> <img src="/people/images/blank.jpg"/></td>		
-	</tr>
-
-	<tr>
 	2021 <br>
 		<td style="width:30%"> Weitong Tian <br><br> <img src="/people/images/blank.jpg"/></td>
 		<td style="width:30%"> Hengyu Cao <br><br> <img src="/people/images/blank.jpg"/></td>
@@ -105,10 +99,16 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	</tr>
 
 	<tr>
-	2021 <br>
 		<td style="width:30%"> Qishu Luo <br><br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
+</table>
 
+<table style="width:100%">
+	<tr>
+	2020 <br>
+		<td style="width:30%"> Xizhi Wang <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Yutang Zhou <br> <img src="/people/images/blank.jpg"/></td>		
+	</tr>
 </table>
 
 
