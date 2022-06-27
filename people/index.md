@@ -63,6 +63,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	<tr>
 		<td style="width:30%">Yongxin Cheng <br> <img src="/people/images/blank.jpg"/></td>
 		<td  style="width:30%">Shenghao Liu <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> </td>
 	</tr>
 
 </table>
@@ -84,14 +85,15 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
  	<br>
 		<td  style="width:30%">Jingdong Zhang <br> <img src="/people/images/blank.jpg"/></td>
 		<td  style="width:30%">Tianye Wen <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> </td>
 	</tr>
 </table>
 
 ### Undergraduate Students
 
 <table style="width:100%">
+	2021
 	<tr>
-	2021 <br>
 		<td style="width:30%"> Weitong Tian <br><br> <img src="/people/images/blank.jpg"/></td>
 		<td style="width:30%"> Hengyu Cao <br><br> <img src="/people/images/blank.jpg"/></td>
 		<td style="width:30%"> Boye Jiang <br><br> <img src="/people/images/blank.jpg"/></td>				
@@ -99,14 +101,17 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 
 	<tr>
 		<td style="width:30%"> Qishu Luo <br><br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> </td>
+		<td style="width:30%"> </td>
 	</tr>
 </table>
 
 <table style="width:100%">
+	2020
 	<tr>
-	2020 <br>
 		<td style="width:30%"> Xizhi Wang <br> <img src="/people/images/blank.jpg"/></td>
 		<td style="width:30%"> Yutang Zhou <br> <img src="/people/images/blank.jpg"/></td>		
+		<td style="width:30%"> </td>
 	</tr>
 </table>
 
