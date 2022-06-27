@@ -17,17 +17,17 @@ Professor </b>
 </div>
 
 <p>
-School of Microelectronics<br>
-Southern University of Science and Technology <br>
+<b>School of Microelectronics </b><br>
+<b>Southern University of Science and Technology </b><br>
 </p>
 
 <p>
-Mailing Address: <br>
+<b>Mailing Address:</b> <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room 803, Nanshan Zhiyuan, Chongwen Park <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3370 Liuxian Ave., Nanshan District, <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenzhen, 518055, China<br>
 
-Email: liuxg@sustech.edu.cn <br>
+<b>Email:</b> <a href="mailto:liuxg@sustech.edu.cn">liuxg@sustech.edu.cn </a> <br>
 
 </p>
 
@@ -70,15 +70,6 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 ### Master Students
 
 <table style="width:100%">
-	2021
-	<tr>
- 	<br>
-		<td  style="width:30%">Jingdong Zhang <br> <img src="/people/images/blank.jpg"/></td>
-		<td  style="width:30%">Tianye Wen <br> <img src="/people/images/blank.jpg"/></td>
-	</tr>
-</table>
-
-<table style="width:100%">
 	2022
 	<tr>
 		<td  style="width:30%">Danlu Zhang <br> <img src="/people/images/blank.jpg"/></td>
@@ -87,6 +78,14 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	</tr>
 </table>
 
+<table style="width:100%">
+	2021
+	<tr>
+ 	<br>
+		<td  style="width:30%">Jingdong Zhang <br> <img src="/people/images/blank.jpg"/></td>
+		<td  style="width:30%">Tianye Wen <br> <img src="/people/images/blank.jpg"/></td>
+	</tr>
+</table>
 
 ### Undergraduate Students
 
