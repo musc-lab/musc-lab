@@ -17,6 +17,6 @@ published: true
 
 <br>
 <br>
-<a href="http://music-sustech.github.io/education/confucious_1" target="_blank"> <img align="middle;" src="http://dart.ece.ucdavis.edu/images/teaching_confucious_1.jpg"> </a>
+<a href="http://music-sustech.github.io/education/confucius_1" target="_blank"> <img align="middle;" src="http://music-sustech.github.io/education/images/teaching_confucius_1.jpg"> </a>
 
-<a href="http://music-sustech.github.io/education/confucious_2" target="_blank"> <img align="middle;" src="http://dart.ece.ucdavis.edu/images/teaching_confucious_2.jpg"> </a>
+<a href="http://music-sustech.github.io/education/confucius_2" target="_blank"> <img align="middle;" src="http://music-sustech.github.io/education/images/teaching_confucius_2.jpg"> </a>

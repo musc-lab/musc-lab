@@ -4,7 +4,7 @@ title: MUSIC Lab at SUSTech - Education
 published: true
 ---
 
-<img align="middle;" src="http://music-sustech.github.io/images/teaching_confucious_1.jpg">
+<img align="middle;" src="http://music-sustech.github.io/education/images/teaching_confucius_1.jpg">
 
 **子曰：“有教无类”**
 
