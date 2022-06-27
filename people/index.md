@@ -94,9 +94,9 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 <table style="width:100%">
 	2021
 	<tr>
-		<td style="width:30%"> Weitong Tian <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td style="width:30%"> Hengyu Cao <br><br> <img src="/people/images/blank.jpg"/></td>
-		<td style="width:30%"> Boye Jiang <br><br> <img src="/people/images/blank.jpg"/></td>				
+		<td style="width:30%"> Weitong Tian <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Hengyu Cao <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%"> Boye Jiang <br> <img src="/people/images/blank.jpg"/></td>				
 	</tr>
 
 	<tr>
@@ -120,7 +120,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 
 <table style="width:100%">
 	<tr>
-		<td style="width:30%">Zhuolin Li <br>  <br> <img src="/people/images/blank.jpg"/></td>
+		<td style="width:30%">Zhuolin Li <br> <img src="/people/images/blank.jpg"/></td>
 	</tr>
 </table>
 
