@@ -20,12 +20,10 @@ use_math: true
 
 We are a group of researchers with a keen interest in many exciting areas of high-frequency and high-speed electronics. Our [research](/research/) interests include:
 
-- High-frequency (RF to THz) integrated circuits;
-- Reconfigurable RF circuits and systems;
+- High-performance high-frequency (RF to THz) integrated circuits and systems;
 - High-precision and high-speed optoelectronic sensors and systems;
-- Microelectronic and photonic devices, such as micro-electromechanical (MEMS) devices;
 - Applications of high-frequency electronics to biomedical, healthcare, industrial, environmental, and humanitarian problems;
-
+- Novel microelectronic and photonic devices.
 <!--
 - High-precision sensing systems using radar and laser time-of-flight (ToF) principles;
 - Novel antennas, frequency selective surfaces, and passive components;
