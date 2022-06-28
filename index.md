@@ -24,10 +24,6 @@ We are a group of researchers with a keen interest in many exciting areas of hig
 - High-precision and high-speed optoelectronic sensors and systems;
 - Applications of high-frequency electronics to biomedical, healthcare, industrial, environmental, and humanitarian problems;
 - Novel microelectronic and photonic devices.
-<!--
-- High-precision sensing systems using radar and laser time-of-flight (ToF) principles;
-- Novel antennas, frequency selective surfaces, and passive components;
- -->
 
 Critical to our scientific research efforts is a pursuit of fundamental understanding of the engineering principles of high frequency electronics. A major mission of our work is to formulate and disseminate such understanding through university [education](/education/) as well as community [outreach](/education/outreach.html).
 <!---
