@@ -8,7 +8,7 @@ published: true
 
 #### [SME-202 Fundamentals of Microelectronics II](_blank)
 
-#### [SME-5029 Design of RF/Microwave Systems](_blank)
+#### [SME-5029 Design of RF/Microwave Systems](/education/sme5029-eec134.html)
 
 <br>
 
@@ -16,7 +16,7 @@ published: true
 
 #### [EEC-130A Introductory Electromagnetics I](/education/eec130a.html)
 
-#### [EEC-134AB Design of RF/Microwave Systems (Senior project course)](/education/eec134.html)
+#### [EEC-134AB Design of RF/Microwave Systems (Senior project course)](/education/sme5029-eec134.html)
 
 #### [EEC-289N Design of RF/Microwave Filters](/education/eec289n.html)
 
