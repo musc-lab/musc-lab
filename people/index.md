@@ -63,7 +63,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 <table style="width:100%">
 	<tr>
 		<td style="width:30%">Yongxin Cheng <br> <img src="/people/images/chengyongxin.jpg"/></td>
-		<td  style="width:30%">Shenghao Liu <br> <img src="/people/images/liushenghao.jpg"/></td>
+		<td  style="width:30%">Shenghao Liu <br> <img src="/people/images/liushenghao.png"/></td>
 		<td style="width:30%"> </td>
 	</tr>
 
@@ -76,7 +76,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	<tr>
 		<td  style="width:30%">Danlu Zhang <br> <img src="/people/images/zhangdanlu.jpg"/></td>
 		<td  style="width:30%">Caihong Liu <br> <img src="/people/images/liucaihong.jpg"/></td>
-		<td  style="width:30%">Mandong Zhang <br> <img src="/people/images/zhangmandong.jpg"/></td>
+		<td  style="width:30%">Mandong Zhang <br> <img src="/people/images/zhangmandong.png"/></td>
 	</tr>
 </table>
 
@@ -96,12 +96,12 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 	2021
 	<tr>
 		<td style="width:30%"> Weitong Tian <br> <img src="/people/images/tianweitong.jpg"/></td>
-		<td style="width:30%"> Yuheng Cao <br> <img src="/people/images/caoyuheng.jpg"/></td>
+		<td style="width:30%"> Yuheng Cao <br> <img src="/people/images/caoyuheng.png"/></td>
 		<td style="width:30%"> Boye Jiang <br> <img src="/people/images/jiangboye.jpg"/></td>				
 	</tr>
 
 	<tr>
-		<td style="width:30%"> Qishu Luo <br><br> <img src="/people/images/luoqishu.jpg"/></td>
+		<td style="width:30%"> Qishu Luo <br><br> <img src="/people/images/luoqishu.png"/></td>
 		<td style="width:30%"> </td>
 		<td style="width:30%"> </td>
 	</tr>
@@ -110,7 +110,7 @@ Prof. Liu's research group is investigating various aspects of cutting-edge high
 <table style="width:100%">
 	2020
 	<tr>
-		<td style="width:30%"> Xizhi Wang <br> <img src="/people/images/wangxizhi.jpg"/></td>
+		<td style="width:30%"> Xizhi Wang <br> <img src="/people/images/wangxizhi.png"/></td>
 		<td style="width:30%"> Yutang Zhou <br> <img src="/people/images/zhouyutang.jpg"/></td>		
 		<td style="width:30%"> </td>
 	</tr>
