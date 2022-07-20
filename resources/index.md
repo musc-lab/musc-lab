@@ -32,15 +32,10 @@ published: true
 * [EEVblog](http://www.youtube.com/user/EEVblog?feature=watch): Video blog about everything electronics from Dave Jones.
 * [Talking Electronics](http://www.talkingelectronics.com/): A wealth of knowledge and all kinds of electronic project kits.
 
+#### History of Technology
 
-### Conferences and Journals Archives
+* R.S. Elliot, "[The history of electromagnetics as Hertz would have known it](https://ieeexplore.ieee.org/document/6079076)," IEEE Transactions on Microwave Theory and Techniques, vol. 36, no. 5, May, 1988.
 
-* [IEEE International Microwave Symposium](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000460)
-* [IEEE Transactions on Microwave Theory and Techniques](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)
-* [IEEE Microwave Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6668)
-* [IEEE Wireless and Microwave Component Letters](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7260)
-* [IEEE/ASME Journal of Microelectromechanical Systems](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=84)
-* [IEEE Journal on Solid State Circuits](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4)
 
 ### Misc/Fun
 
